@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="notes_title">Notes</string>
+    <string name="hello">Hello, World!</string>
+    <string name="fab_add">Add</string>
+    <string name="note_save">Save</string>
+    <string name="note_cancel">Cancel</string>
+    <string name="note_description">Description</string>
+    <string name="note_title">Title</string>
+    <string name="note_new_title">New note</string>
+    <string name="note_hint">Note text</string>
+</resources>

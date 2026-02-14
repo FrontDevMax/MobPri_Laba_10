@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="notes_title">Заметки</string>
+    <string name="hello">Hello, World!</string>
+    <string name="fab_add">Добавить</string>
+    <string name="note_save">Сохранить</string>
+    <string name="note_cancel">Отменить</string>
+    <string name="note_description">Описание</string>
+    <string name="note_title">Заголовок</string>
+    <string name="note_new_title">Новая заметка</string>
+    <string name="note_hint">Текст заметки</string>
+</resources>
